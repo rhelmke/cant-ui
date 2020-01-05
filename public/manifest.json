@@ -1,0 +1,7 @@
+{
+  "short_name": "CANT UI",
+  "name": "CANT Proxy Interface",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone"
+}

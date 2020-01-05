@@ -1,0 +1,50 @@
+div.long_text {
+    width: 350px;
+    text-overflow: ellipsis;
+    white-space:nowrap;
+    overflow:hidden;
+}
+
+div.clickable:hover {
+    cursor: pointer;
+}
+
+#livelog {
+  height: 200px;
+  max-height: 200px;
+  resize: none;
+  width: 100%;
+}
+
+body {
+  padding:0;
+  margin:0;
+  font-family: 'Roboto';
+}
+
+#footer {
+  font-size: 11px; 
+  text-align: center;
+}
+
+#notifications {
+  padding-top: 70px;
+  padding-right: 10px;
+  position: fixed;
+  right: 0px;
+  z-index: 5000;
+}
+
+.pre-scrollable {
+  background: #F2F2F2;
+}
+
+#content {
+  padding: 10px;
+  font-size: 13px;
+}
+
+.modal-overlay {
+  font-size: 13px;
+  font-family: 'Roboto';
+}
